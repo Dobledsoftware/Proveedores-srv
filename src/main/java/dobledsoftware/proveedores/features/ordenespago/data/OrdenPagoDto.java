@@ -3,7 +3,7 @@ package dobledsoftware.proveedores.features.ordenespago.data;
 import io.swagger.v3.oas.annotations.media.Schema;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
-girtimport java.time.OffsetTime;
+import java.time.OffsetTime;
 
 @Schema(description = "Objeto de transferencia de datos para Orden de Pago")
 public class OrdenPagoDto {

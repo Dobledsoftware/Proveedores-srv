@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ProveedoresApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="proveedores (1) (dobledsoftware.proveedores)" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="dobledsoftware.proveedores.features.ProveedoresApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
